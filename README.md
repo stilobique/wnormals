@@ -1,4 +1,4 @@
-INTRODUCTION
+# INTRODUCTION
 
 This MaxScript generates Weighted Vertex Normals for any arbitrary geometry.
 
@@ -13,7 +13,8 @@ have less influence on shading of its larger neighbor. Likewise, the neighbor
 will have larger influence on the shading of the smaller neighbor.
 
 See this illustration:
-https://github.com/ByteHazard/wnormals/blob/master/wnormals.png
+
+![alt text](ressources/wnormals.png)
 
 This effect is typically most visible on chamfered boxes, but enhances all types
 of geometry. All geometry with proper weighted vertex normals is mathematically
@@ -29,7 +30,7 @@ Note: Using this script on the 3dsmax teapot primitive will result in some
       triangles at the top and bottom poles, and thus needs some manual cleanup.
 
 
-USAGE
+# USAGE
 
 1) Run the script.
 2) Select one or more objects.
@@ -45,7 +46,7 @@ added at the top of the stack. Only the topmost Edit Normals modifier can be
 accessed due to a 3dsmax bug.
 
 
-LICENSE
+# LICENSE
 
 By Martijn Buijs, 2014.
 
