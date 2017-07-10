@@ -29,6 +29,10 @@ Note: Using this script on the 3dsmax teapot primitive will result in some
       but a longstanding problem in 3dsmax. The 3dsmax teapot has degenerate
       triangles at the top and bottom poles, and thus needs some manual cleanup.
 
+# Install
+Paste the .ms file inside 3DS max Script Folder, re the script and find it on Black Sheep category.
+
+![alt text](ressources/install.jpg)
 
 # USAGE
 
