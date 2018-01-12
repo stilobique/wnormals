@@ -32,7 +32,7 @@ Note: Using this script on the 3dsmax teapot primitive will result in some
 # Install
 Paste the .ms file inside 3DS max Script Folder, re the script and find it on Black Sheep category.
 
-![alt text](ressources/install.jpg)
+![alt text](ressources/Install.jpg)
 
 # USAGE
 
